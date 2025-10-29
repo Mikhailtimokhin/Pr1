@@ -13,6 +13,7 @@
 make
 
 Запуск 
+
 ./.build/program < src/main.c
 
 ./.build/program src/main.c
@@ -20,6 +21,7 @@ make
 ./.build/program Makefile src/main.c
 
 Аналог в Linux
+
 cat
 
 В репозитории не храним
