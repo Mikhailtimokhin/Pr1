@@ -22,4 +22,3 @@ cat
 
 В репозитории не храним
 .build/, *.o, *.exe, *.out, .vscode/, .idea/, Thumbs.db, .DS_Store
-'@ | Set-Content -Encoding UTF8 README.md
