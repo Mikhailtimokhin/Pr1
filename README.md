@@ -10,7 +10,7 @@
 - Вывод: содержимое файлов/потока в stdout.
 
 Сборка
-make
+- make
 
 Запуск 
 
@@ -21,8 +21,7 @@ make
 ./.build/program Makefile src/main.c
 
 Аналог в Linux
-
-cat
+- cat
 
 В репозитории не храним
 .build/, *.o, *.exe, *.out, .vscode/, .idea/, Thumbs.db, .DS_Store
