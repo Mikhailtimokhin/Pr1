@@ -14,7 +14,9 @@ make
 
 Запуск 
 ./.build/program < src/main.c
+
 ./.build/program src/main.c
+
 ./.build/program Makefile src/main.c
 
 Аналог в Linux
